@@ -1,0 +1,7 @@
+¿Cuál es la etiqueta que usamos para emparejar un input, para tener un título para la entrada de datos?
+¡Alternativa correcta! La etiqueta <label> es una etiqueta para la entrada de datos para el <input>.
+
+¿Cuál es la propiedad de un input del tipo radio que necesito crear para que todos los elementos formen parte del mismo grupo?
+
+
+¡Alternativa correcta! La propiedad name solo se puede “completar” una vez, es por eso que, cuando seleccionamos uno de los ítems, se anula el otro, manteniendo solamente uno seleccionado.
